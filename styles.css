@@ -13,10 +13,11 @@
 	
 	border:2px  solid black;
 		padding:50px 90px ;
+		width:300px;
+
 }
 #e{
 	border:1px dashed black;
-	width:300px;
-	padding:4px;
+	
 	
 }
