@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+#a{
+	border:1px solid black;
+}
+#b{
+	border:15px solid blue;
+	margin:20px;
+}#c{
+	background-color:lightblue;
+	padding:50px;
+}#d{
+	width:300px;
+	border:1px solid black;
+}
+#e{
+	border:1px dashed black;
+}
