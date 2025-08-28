@@ -10,9 +10,13 @@
 	background-color:lightblue;
 	padding:50px;
 }#d{
-	width:300px;
-	border:1px solid black;
+	
+	border:2px  solid black;
+		padding:50px 90px ;
 }
 #e{
 	border:1px dashed black;
+	width:300px;
+	padding:4px;
+	
 }
